@@ -1,0 +1,12 @@
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1481302225719</id>
+		<updated>2016-12-10T23:35:19Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;spc-17534-0&gt;)'/>
+		<apps:property name='label' value='GitHub/CodePen'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
