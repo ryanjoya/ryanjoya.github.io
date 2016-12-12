@@ -10,3 +10,15 @@
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
 	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1481322369028</id>
+		<updated>2016-12-10T23:35:19Z</updated>
+		<content></content>
+		<apps:property name='from' value='noreply@us-learning.alison.com OR noreply@us-news.alison.com'/>
+		<apps:property name='label' value='Self-Education/ALISON Courses'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
